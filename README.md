@@ -69,3 +69,17 @@ The main purpose of this repository is to present and analyze **numerical soluti
 This repository is intended as both a **research tool** and a **reference** for students and researchers interested in the numerical study of boson stars.
 
 ---
+---
+
+## Background and References
+
+This project is based on and inspired by several key works in the field of boson star research, including:  
+
+- *TOPICAL REVIEW: General Relativistic Boson Stars* – Franz E. Schunck, Eckehard W. Mielke  
+- *Boson Stars and Oscillatons: A Review* – Luca Visinelli  
+- *The Structure and Formation of Boson Stars* – Andrew R. Liddle, Mark S. Madsen, 1992  
+
+Along with these and other related works, this repository builds on the established theoretical and numerical framework of boson stars.
+The project is also part of the ongoing research and writing of the author’s **Pdh Thesis**, where the numerical characterization of relativistic boson stars plays a central role. In addition, the **numerical methodology** applied here is mainly based on:  
+
+- *Linear stability of nonrelativistic self-interacting boson stars* – Emmanuel Chávez Nambo, Alberto Diez-Tejedor, Armando A. Roque, and Olivier Sarbach  

@@ -39,7 +39,7 @@ These systems can include a self-interaction term, parameterized by a dimensionl
 
 If the mass is small, relativistic effects can be neglected, and the Newtonian approximation is valid. For masses approaching the Kaup limit (\(M_{\text{Kaup}} = 0.633 M_{\text{Pl}}^2 / m\)), relativistic effects are crucial. Beyond this mass, no equilibrium configurations exist, similar to fermionic stars.  
 
-Self-interacting boson stars have a maximum mass \(M_{\text{max}} = 0.06 \lambda M_{\text{Pl}}^3 / m^2\), comparable to fermion stars, making them particularly interesting.
+Self-interacting boson stars have a maximum mass $\(M_{\text{max}} = 0.06 \lambda M_{\text{Pl}}^3 / m^2\)$, comparable to fermion stars, making them particularly interesting.
 
 ---
 

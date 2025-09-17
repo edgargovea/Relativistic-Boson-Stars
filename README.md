@@ -10,7 +10,7 @@ Compact objects like white dwarfs and neutron stars are part of the entities tha
 
 Parallel to these objects are **boson stars**, hypothetical compact objects made of spin $\(s = 0\)$ bosons, and **Proca stars**, compact objects made of spin $\(s = 1\)$ bosons. These hypothetical objects could account for dark matter: massive self-gravitating scalar (or vector) fields can form stable astrophysical (or subatomic) objects supported by self-gravity and Heisenberg’s uncertainty principle.
 
-Although the cold dark matter model (CDM) within the standard cosmological model $\(\Lambda\)$CDM explains large-scale structure so well, it faces issues on galactic scales:  
+Although the cold dark matter model (CDM) within the standard cosmological model $\(\Lambda\)$ CDM explains large-scale structure so well, it faces issues on galactic scales:  
 
 - CDM simulations predict cuspy density profiles at galactic centers, whereas rotation curves suggest smooth cores.  
 - The predicted number of satellite galaxies around galactic halos is higher than observed.  

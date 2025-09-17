@@ -52,4 +52,19 @@ Due to their mass, size, and stability, boson stars could be viable dark matter 
 
 Equilibrium arises from the balance of self-interaction pressure, self-gravity, and quantum pressure.
 
+--- 
+
+# Purpose of the Repository
+
+The main purpose of this repository is to present and analyze **numerical solutions to Relativistic Boson Stars**. We provide a clear methodology in the file `metodos.py`, and present results through Jupyter notebooks. In particular, the notebooks illustrate:
+
+- Equilibrium configurations for different values of the self-interaction parameter $\(\lambda\)$.  
+- Excited configurations $n= 1,2,...$ for mini-Boson Stars ($\lambda$).  
+- Gravitational potential behavior for a mini-Boson Star.  
+- Mass $\(M\)$ and $\(N \cdot m_{0}\)$ as a function of the initial radial profile $\sigma_{0}$.  
+- Total mass $M_T$ as a function of the central radial profile $\sigma_{0}$.  
+- Total mass  $M_T$ as a function of the radial profile $\sigma_{0}$ for different values of $\(\lambda\)$.  
+
+This repository is intended as both a **research tool** and a **reference** for students and researchers interested in the numerical study of boson stars.
+
 ---

@@ -72,8 +72,8 @@ def systemBS(x, yV, arg):
 
 ########################################################
 # MI implementación
-def Freq_solveNodos(in0, wmin, wmax, Lambda, nodos, rmin=0, rmax=50, met='RK45', Rtol=1e-06, Atol=1e-7,
-               limw=1e-14, info=False):
+def Freq_solveNodos(in0, wmin, wmax, Lambda, nodos, rmin=0, rmax=20, met='RK45', Rtol=1e-06, Atol=1e-7,
+               limw=1e-5, info=False):
     """
     Implementación de un algoritmo de shooting usando un método de bisección para encontrar el valor de la 
     frecuencia w0, dado una amplitud central p0.

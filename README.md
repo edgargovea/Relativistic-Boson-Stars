@@ -2,7 +2,7 @@
 
 This repository contains a project dedicated to characterizing numerical solutions for relativistic boson stars, both interacting and non-interacting cases (Massive Boson Stars and Mini-Boson Stars).
 
-<img src="imagenes_rbs/RelativisticBoson_starExcitedn.png" width="700">
+<img src="figures/RelativisticBoson_starExcitedn.png" width="700">
 
 ---
 
@@ -55,7 +55,7 @@ Due to their mass, size, and stability, boson stars could be viable dark matter 
 
 Equilibrium arises from the balance of self-interaction pressure, self-gravity, and quantum pressure.
 
-<img src="imagenes_rbs/RelativisticBoson_starFreeCase.png" width="400"> <img src="imagenes_rbs/RelativisticBoson_NMvsS_page-0001.jpg" width="450">
+<img src="figures/RelativisticBoson_starFreeCase.png" width="400"> <img src="figures/RelativisticBoson_NMvsS_page-0001.jpg" width="450">
 
 
 --- 
